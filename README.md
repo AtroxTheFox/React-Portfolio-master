@@ -19,7 +19,7 @@ Header obsahuje 4 odkazy, které uživatele přemístí na dané místo na singl
 Footer je custom, s odkazy na Ko-fi, Xitter, Instagram, Telegram a mail.
 
 # Vlastní zhodnocení && Příležitosti ke zlepšení
-Myslím, že se mi web jakožto celkem realtivně povedl. Většina komponent je funkčních, na webu mají své logické místo a designově web také nevypadá úplně nejhůře. Nedostatky ale samozřejmě existují a je stále spousta věcí, která by se dala vylepšit. Chybí konktatní formulář, galerie by mohla být propracovanější atd. 
+Myslím, že se mi web jakožto celek realtivně povedl. Většina komponent je funkčních, na webu mají své logické místo a designově web také nevypadá úplně nejhůře. Nedostatky ale samozřejmě existují a je stále spousta věcí, která by se dala vylepšit. Chybí konktatní formulář, galerie by mohla být propracovanější atd. 
 
 K reactu jakožto frameworku bych ale pár výtek měl. Po každém error screenu jsem měl chuť prohodit myš displejem, obecně error kódy jsou vcelku nic neříkající a tak je jakýkoliv troubleshooting bolest. Nemluvě o tom, že i když nikde nechybí čárka nebo středník, všechny komponenty jsou napsané správně a projekt stále háže jednu chybu za druhou. Po restartu se to ale magicky spraví, na chvíli. A pořád dokola.
 
