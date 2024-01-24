@@ -6,7 +6,7 @@ V sekci home můžeme vidět velký nadpis se jménem s menším podnadpisem. N�
 Sekce je poměrně skormá sekce, ve které mám jen PFP obrázek a krátký popis. Pod ní se nachází typewriter like text, který mění fráze z databáze mnou zadaných frází.
 ## Gallery
 Dále tu máme galerii, kde jsou 4 nejnovější náhledy obrázků, které slouží zároveň jako odkazy na popsané galerie. Při hoveru myší se vypíše, o jakou galerii se jedná.
-# Info
+## Info
 Sekce info obsahuje 3 podsekce:
 ### ToS
 Terms of Serivice. Asi celkem self-explanatory
